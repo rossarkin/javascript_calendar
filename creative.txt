@@ -1,0 +1,18 @@
+Federico Rozenberg - 431628
+Ross Arkin - 430479
+
+http://ec2-54-191-24-193.us-west-2.compute.amazonaws.com/~frozenberg/module5/calendar/calendar.php
+
+To save events, register with a username, password and valid email address. 
+To edit and delete events, select an event from the radio button on the right. Then click edit or delete. The rest should be fairly intuitive. 
+
+- Users can register with an email address. There is a forgot your username function that sends their username to their registered email
+in the event they forget their username. 
+- Users can assign color categories to events to distinguish them from one another. 
+- Users can save a description to their events. 
+- Users can hover over events to see more information in a clean and crisp format.
+- Editing events is made very simple by a JQuery popup. 
+- A heavy emphasis on CSS makes the website VERY visually appealing. 
+
+
+The website has a favicon. 
